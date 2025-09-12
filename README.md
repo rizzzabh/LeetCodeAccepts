@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1182-game-play-analysis-iv) |
 | [1480-movie-rating](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1480-movie-rating) |
 | [1541-top-travellers](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1541-top-travellers) |
+## Math
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
+## String
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
