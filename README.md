@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3678-design-task-manager](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3678-design-task-manager) |
 ## Design
 |  |
