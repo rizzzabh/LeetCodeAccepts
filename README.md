@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
 | ------- |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3678-design-task-manager](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
