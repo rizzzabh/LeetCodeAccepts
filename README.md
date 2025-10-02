@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
@@ -75,18 +76,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 | [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 ## Union Find
@@ -98,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
