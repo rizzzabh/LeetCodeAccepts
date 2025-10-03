@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
+| [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
+| [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
+| [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 ## Graph
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
+| [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
 ## Topological Sort
 |  |
 | ------- |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
 <!---LeetCode Topics End-->
