@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
+| [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
 ## Union Find
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
 ## Topological Sort
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
 ## Shortest Path
 |  |
 | ------- |
