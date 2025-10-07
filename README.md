@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0793-swap-adjacent-in-lr-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
 |  |
 | ------- |
