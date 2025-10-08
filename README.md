@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3678-design-task-manager](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Design
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Topological Sort
 |  |
 | ------- |
