@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
 | ------- |
