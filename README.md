@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
