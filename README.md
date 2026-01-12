@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1390-four-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1390-four-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
