@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0008-string-to-integer-atoi) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
