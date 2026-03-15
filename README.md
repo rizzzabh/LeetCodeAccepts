@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1622-fancy-sequence) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1622-fancy-sequence) |
 | [3678-design-task-manager](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
