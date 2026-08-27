@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3462-vowels-game-in-a-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3462-vowels-game-in-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3678-design-task-manager](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3678-design-task-manager) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3797-design-spreadsheet](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0144-binary-tree-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
