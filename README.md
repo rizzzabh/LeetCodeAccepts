@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0197-rising-temperature) |
+| [1148-article-views-i](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1148-article-views-i) |
 | [1179-game-play-analysis-i](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1182-game-play-analysis-iv) |
 | [1480-movie-rating](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1480-movie-rating) |
