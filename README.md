@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0008-string-to-integer-atoi) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0169-majority-element) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
