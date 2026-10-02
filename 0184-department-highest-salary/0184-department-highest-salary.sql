@@ -1,20 +1,14 @@
-/* Write your T-SQL query statement below */
+# Write your MySQL query statement below
+WITH HighestSalary AS (
+    SELECT MAX(salary) AS salary,d.name,d.id
+    FROM Employee as e
+    JOIN Department as d
+    ON (e.departmentId = d.id)
+    GROUP BY d.name , d.id
+)
 
-SELECT 
-departmentName as Department ,
-employeeName as Employee , 
-salary
- FROM
-
-(SELECT 
-RANK() OVER (PARTITION BY departmentId ORDER BY salary DESC) as rankOnSalary,
-salary ,
-Employee.name as employeeName,
-departmentId ,
-department.name as departmentName
-FROM 
-Employee
-LEFT JOIN Department 
-ON Employee.departmentId = Department.id) t
-WHERE rankOnSalary = 1
-
+SELECT h.name as Department, e.name as Employee, e.salary as Salary
+FROM (Employee as e)
+JOIN HighestSalary as h
+ON (h.id = e.departmentId)
+WHERE (e.salary = h.salary AND e.departmentId=h.id)
