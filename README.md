@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0169-majority-element) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3678-design-task-manager](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3678-design-task-manager) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0169-majority-element) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0794-swim-in-rising-water](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0794-swim-in-rising-water) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1266-minimum-time-visiting-all-points) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0169-majority-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -203,9 +206,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0169-majority-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
