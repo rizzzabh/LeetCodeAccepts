@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0770-couples-holding-hands) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0226-invert-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0863-sum-of-distances-in-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/1493-frog-position-after-t-seconds) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/rizzzabh/LeetCodeAccepts/tree/master/0226-invert-binary-tree) |
 ## Counting
 |  |
 | ------- |
